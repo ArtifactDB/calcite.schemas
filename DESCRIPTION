@@ -1,11 +1,11 @@
 Package: calcite.schemas
 Title: Schemas for the Calcite Framework
-Version: 0.98.0
+Version: 0.98.1
 License: MIT + file LICENSE
-Date: 2022-10-06
+Date: 2022-10-13
 Description:
     Stores all schemas required by the calcite demonstrator packages.
     We use a separate package instead of storing the schemas in calcite itself,
     to avoid conflating management of the schemas with code maintenence.
 Authors@R: person("Aaron", "Lun", role=c("cre", "aut"), email="infinite.monkeys.with.keyboards@gmail.com")
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.1
